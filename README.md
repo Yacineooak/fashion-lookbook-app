@@ -301,10 +301,6 @@ Passionate about creating exceptional digital experiences through innovative web
 - **📧 Email**: [stylebenderkh@gmail.com](mailto:stylebenderkh@gmail.com)
 - **📱 Phone**: [+213 541095903](tel:+213541095903)
 
-### Professional Links
-- **💼 Portfolio**: [Coming Soon]
-- **🐙 GitHub**: [@yourusername](https://github.com/yourusername)
-- **💼 LinkedIn**: [Your LinkedIn Profile]
 
 ### Response Times
 - **Email Support**: Within 24 hours
